@@ -2,7 +2,7 @@
 
 ## Reading List 
 
-### Proposer-Building Separation After the Merge
+### Proposer-Building Separation (PBS) After the Merge
 
 - [Evaluating the PBS Experiment: Early insights from MEV-Boost and the Builder Market by Jolene Dunne](https://youtu.be/BFVSRSN5E_A)
 - [Since the Merge: How Are Things Changing?](https://pintail.xyz/posts/since-the-merge/)
