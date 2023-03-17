@@ -42,10 +42,17 @@
 - [One Block, One Batch: Examining the Potential of Frequent Batch Auctions in Ethereum by Anna George](https://youtu.be/qSdE4LrPjG0)
 - [MEV Reduction via Batch Auction - Alex Hermann (Cowswap)](https://youtu.be/nEpDHiZfFyA)
 
+### Academic Papers on Quantifying MEV
+- K. Qin, L. Zhou, and A. Gervais, “Quantifying blockchain extractable value: How dark is the forest?” in 2022 IEEE Symposium on Security and Privacy (SP). IEEE, 2022, pp. 198–214. [arXiv](Quantifying blockchain extractable value: How dark is the forest?)|[IEEE](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a791/1FlQKjhw6Mo)|[YouTube](https://youtu.be/5lop03OWhzU)
+- B. Weintraub, C. Ferreira Torres, C. Nita-Rotaru, and R. State, “A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools,” in Proceedings of the 22nd ACM Internet Measurement Conference (IMC ’22). Nice, France: Association for Computing Machinery, 2022.[ACM](https://dl.acm.org/doi/abs/10.1145/3517745.3561448)|[arXiv](https://arxiv.org/abs/2206.04185)|[GitHub](https://github.com/a-flashbot-in-the-pan/a-flashbot-in-the-pan)
+- J. Piet, J. Fairoze, and N. Weaver, “Extracting godl [sic] from the salt mines: Ethereum miners extracting value,” in Workshop on the Economics of Information Security, 2022. [arXiv](https://arxiv.org/abs/2203.15930)
+- X. Lyu, M. Zhang, X. Zhang, J. Niu, Y. Zhang, and Z. Lin, “An Empirical Study on Ethereum Private Transactions and the Security Implications,” arXiv preprint arXiv:2208.02858, 2022.[arXiv](An Empirical Study on Ethereum Private Transactions and the Security Implications)
+- A. Capponi, R. Jia, and Y. Wang, “The Evolution of Blockchain: from Lit to Dark,” arXiv preprint arXiv:2202.05779, 2022
+- C. F. Torres, R. Camino et al., “Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain,” in 30th USENIX Security Symposium (USENIX Security 21), 2021, pp. 1343–1359
+- Y. Wang, Y. Chen, H. Wu, L. Zhou, S. Deng, and R. Wattenhofer, “Cyclic arbitrage in decentralized exchanges,” Available at SSRN 3834535, 2022.
 
 
-
-### Data or/and Dashboard
+## Data or/and Dashboard
 
 - [EigenPhi](https://eigenphi.io/)
 - [ZeroMEV](https://info.zeromev.org/explorer)
