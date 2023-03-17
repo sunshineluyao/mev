@@ -55,12 +55,7 @@
 - [Flashbots MEV Transparency Dashboard](https://transparency.flashbots.net/) 
   - [Flashbots Transprency Dashboard Docuemntation](https://boost.flashbots.net/mev-boost-status-updates/introducing-the-flashbots-transparency-dashboard) 
 - [OFAC Compliant Dashbaord](https://www.mevwatch.info/)
-- http://relayscan.io/
 - https://github.com/wealdtech/probed
-- https://flashbots.notion.site/Relay-API-Documentation-5fb0819366954962bc02e81cb33840f5
-- https://web3py.readthedocs.io/en/latest/index.html
-- https://thegraph.com/docs/en/
-- https://github.com/Nerolation/ethereum-datafarm
-- https://medium.com/@toni_w/ethereum-datafarm-parsing-historic-event-data-from-the-ethereum-blockchain-into-csv-files-using-9c7ec79dfe7c
-- https://api.etherscan.io/api?module=block&action=getblockreward&blockno=1000000
-
+- [Etherscan Blockrewards](https://api.etherscan.io/api?module=block&action=getblockreward&blockno=1000000)
+- [Ethereum Datafarm: Parse Smart Contract event data without requiring an archive/full node](https://github.com/Nerolation/ethereum-datafarm)
+   - [Ethereum Datafarm Tutorial](https://medium.com/@toni_w/ethereum-datafarm-parsing-historic-event-data-from-the-ethereum-blockchain-into-csv-files-using-9c7ec79dfe7c)
