@@ -5,20 +5,25 @@
 ### Proposer-Building Separation (PBS) After the Merge
 
 - [Evaluating the PBS Experiment: Early insights from MEV-Boost and the Builder Market by Jolene Dunne](https://youtu.be/BFVSRSN5E_A)
-- [Since the Merge: How Are Things Changing?](https://pintail.xyz/posts/since-the-merge/)
-- [Decentralization of block production pre- and post-Merge](https://medium.com/@nflswanxin/decentralization-of-block-production-pre-and-post-merge-af956aee947)
-- [Validators or value-takers?](https://blog.metrika.co/validators-or-value-takers-e71f46047437)
-- [100 Days After the Merge](https://www.galaxy.com/research/insights/100-days-after-the-merge/)
-- [MEV in eth2 - an early exploration](https://hackmd.io/@flashbots/mev-in-eth2#)
 - [Compensation and punishment](https://stonecoldpat.substack.com/p/compensation-and-punishment)
 - [MEV-boost and layer-1’s censorship resistance](https://stonecoldpat.substack.com/p/mev-boost)
-- [Practical Guide into Analyzing MEV in the Proof-of-Stake Era](https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918)
-- [Exploring The Impact Of MEV Relays](https://www.attestant.io/posts/exploring-the-impact-of-mev-relays/)
-- [MEV Post Merge Changes (DEX)](https://medium.com/@outsideranalytics/dex-mev-post-merge-arb-2b4614117fdd)
 - [Vitalik Buterin: Decentralizing the Builder Role - SBC 2022](https://youtu.be/fAgrIdyWIqc)
 - [Decentralizing the Builder Role](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role)
 - [Economic Organisation in the Ethereum Protocol](https://youtu.be/T5BWw_IvPZo)
 - [Notes on Proposer-Builder Separation (PBS)](https://barnabe.substack.com/p/pbs)
+
+### Quantify MEV
+
+- [Validators or value-takers?](https://blog.metrika.co/validators-or-value-takers-e71f46047437)
+- [Practical Guide into Analyzing MEV in the Proof-of-Stake Era](https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918)
+- [Since the Merge: How Are Things Changing?](https://pintail.xyz/posts/since-the-merge/)
+- [Decentralization of block production pre- and post-Merge](https://medium.com/@nflswanxin/decentralization-of-block-production-pre-and-post-merge-af956aee947)
+- [MEV in eth2 - an early exploration](https://hackmd.io/@flashbots/mev-in-eth2#)
+- [MEV Post Merge Changes (DEX)](https://medium.com/@outsideranalytics/dex-mev-post-merge-arb-2b4614117fdd)
+- [Exploring The Impact Of MEV Relays](https://www.attestant.io/posts/exploring-the-impact-of-mev-relays/)
+- [100 Days After the Merge](https://www.galaxy.com/research/insights/100-days-after-the-merge/)
+
+
 
 ### New MEV Opportunities 
 - [Multi-block MEV](https://collective.flashbots.net/t/multi-block-mev/457?u=nerolation)
