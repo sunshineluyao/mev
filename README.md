@@ -53,7 +53,7 @@
 - [MEV Boost Dashboard](https://mevboost.pics/)
   - [MEV Boost Pic GitHub ](https://github.com/Nerolation/mevboost.pics)
 - [Flashbots MEV Transparency Dashboard](https://transparency.flashbots.net/) 
-  - [Flashbots Transprency Dashboard Docuemntation](https://boost.flashbots.net/mev-boost-status-updates/introducing-the-flashbots-transparency-dashboard) 
+  - [Flashbots Transprency Dashboard Documentation](https://boost.flashbots.net/mev-boost-status-updates/introducing-the-flashbots-transparency-dashboard) 
 - [OFAC Compliant Dashbaord](https://www.mevwatch.info/)
 - https://github.com/wealdtech/probed
 - [Etherscan Blockrewards](https://api.etherscan.io/api?module=block&action=getblockreward&blockno=1000000)
