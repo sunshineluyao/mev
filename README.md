@@ -15,7 +15,7 @@
 ### Quantify MEV
 
 - [Validators or value-takers?](https://blog.metrika.co/validators-or-value-takers-e71f46047437)
-  - [GitHub]: https://github.com/Metrika-Inc/eth-merge-data-challenge
+  - [GitHub](https://github.com/Metrika-Inc/eth-merge-data-challenge)
 - [Practical Guide into Analyzing MEV in the Proof-of-Stake Era](https://medium.com/@toni_w/practical-guide-into-analyzing-mev-in-the-proof-of-stake-era-e2b024509918)
 - [Since the Merge: How Are Things Changing?](https://pintail.xyz/posts/since-the-merge/)
 - [Decentralization of block production pre- and post-Merge](https://medium.com/@nflswanxin/decentralization-of-block-production-pre-and-post-merge-af956aee947)
