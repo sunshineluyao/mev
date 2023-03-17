@@ -52,11 +52,9 @@
   - [Dune ChainAnalytics](https://dune.com/ChainsightAnalytics/mev-after-ethereum-merge)
 - [MEV Boost Dashboard](https://mevboost.pics/)
   - [MEV Boost Pic GitHub ](https://github.com/Nerolation/mevboost.pics)
-
 - [Flashbots MEV Transparency Dashboard](https://transparency.flashbots.net/) 
   - [Flashbots Transprency Dashboard Docuemntation](https://boost.flashbots.net/mev-boost-status-updates/introducing-the-flashbots-transparency-dashboard) 
-
-- https://www.mevwatch.info/
+- [OFAC Compliant Dashbaord](https://www.mevwatch.info/)
 - http://relayscan.io/
 - https://github.com/wealdtech/probed
 - https://flashbots.notion.site/Relay-API-Documentation-5fb0819366954962bc02e81cb33840f5
