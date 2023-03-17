@@ -44,7 +44,7 @@
 
 ### Academic Papers on Quantifying MEV
 - K. Qin, L. Zhou, and A. Gervais, “Quantifying blockchain extractable value: How dark is the forest?” in 2022 IEEE Symposium on Security and Privacy (SP). IEEE, 2022, pp. 198–214. 
-   - [arXiv](https://arxiv.org/abs/2101.05511))
+   - [arXiv](https://arxiv.org/abs/2101.05511)
    - [IEEE](https://www.computer.org/csdl/proceedings-article/sp/2022/131600a791/1FlQKjhw6Mo)
    - [YouTube](https://youtu.be/5lop03OWhzU)
 - B. Weintraub, C. Ferreira Torres, C. Nita-Rotaru, and R. State, “A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools,” in Proceedings of the 22nd ACM Internet Measurement Conference (IMC ’22). Nice, France: Association for Computing Machinery, 2022.
