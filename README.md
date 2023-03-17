@@ -18,7 +18,7 @@
 - [Exploring The Impact Of MEV Relays](https://www.attestant.io/posts/exploring-the-impact-of-mev-relays/)
 - [Multi Block MEV](https://collective.flashbots.net/t/multi-block-mev/457?u=nerolation)
 - [Why is Oracle Manipulation after the Merge so cheap? Multi-Block MEV](https://chainsecurity.com/oracle-manipulation-after-merge/)
-- [https://medium.com/@outsideranalytics/dex-mev-post-merge-arb-2b4614117fdd](https://medium.com/@outsideranalytics/dex-mev-post-merge-arb-2b4614117fdd)
+- [MEV Post Merge Changes (DEX)](https://medium.com/@outsideranalytics/dex-mev-post-merge-arb-2b4614117fdd)
 - [Vitalik Buterin: Decentralizing the Builder Role - SBC 2022](https://youtu.be/fAgrIdyWIqc)
 - [Decentralizing the Builder Role](https://joncharbonneau.substack.com/p/decentralizing-the-builder-role)
 - [Economic Organisation in the Ethereum Protocol](https://youtu.be/T5BWw_IvPZo)
