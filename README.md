@@ -27,7 +27,6 @@
 - [his is not MEV. by Alejo Salles | Devcon Bogotá](https://youtu.be/Lc5zxOonT0A)
 - [This is MEV by sxysun | Devcon Bogotá](https://youtu.be/8qPpiMDz_hw)
 - [One Block, One Batch: Examining the Potential of Frequent Batch Auctions in Ethereum by Anna George](https://youtu.be/qSdE4LrPjG0)
-- [The Future of Liquid Staking by Vasiliy Shapovalov | Devcon Bogotá](MEV Reduction via Batch Auction - Alex Hermann (Cowswap))
 - [MEV Reduction via Batch Auction - Alex Hermann (Cowswap)](https://youtu.be/nEpDHiZfFyA)
 
 
