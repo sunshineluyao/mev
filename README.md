@@ -60,8 +60,8 @@
   - [MEV Boost Pic GitHub ](https://github.com/Nerolation/mevboost.pics)
 - [Flashbots MEV Transparency Dashboard](https://transparency.flashbots.net/) 
   - [Flashbots Transprency Dashboard Documentation](https://boost.flashbots.net/mev-boost-status-updates/introducing-the-flashbots-transparency-dashboard) 
-- [OFAC Compliant Dashbaord](https://www.mevwatch.info/)
-- https://github.com/wealdtech/probed
+- [OFAC Compliant Dashboard](https://www.mevwatch.info/)
+   - https://github.com/wealdtech/probed
 - [Etherscan Blockrewards](https://api.etherscan.io/api?module=block&action=getblockreward&blockno=1000000)
 - [Ethereum Datafarm: Parse Smart Contract event data without requiring an archive/full node](https://github.com/Nerolation/ethereum-datafarm)
    - [Ethereum Datafarm Tutorial](https://medium.com/@toni_w/ethereum-datafarm-parsing-historic-event-data-from-the-ethereum-blockchain-into-csv-files-using-9c7ec79dfe7c)
