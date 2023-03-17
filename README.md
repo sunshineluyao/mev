@@ -21,7 +21,7 @@
 - [Notes on Proposer-Builder Separation (PBS)](https://barnabe.substack.com/p/pbs)
 
 ### New MEV Opportunities 
-- [Multi Block MEV](https://collective.flashbots.net/t/multi-block-mev/457?u=nerolation)
+- [Multi-block MEV](https://collective.flashbots.net/t/multi-block-mev/457?u=nerolation)
 - [Why is Oracle Manipulation after the Merge so cheap? Multi-Block MEV](https://chainsecurity.com/oracle-manipulation-after-merge/)
 
 ### Philosophical Discussions Around MEV
